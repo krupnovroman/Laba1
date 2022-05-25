@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Sergeevichhh
-=======
-Sergvich
->>>>>>> newdev
+Sergeevich
